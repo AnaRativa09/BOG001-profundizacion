@@ -22,7 +22,12 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
     - Actividades a desarrollar:
         * Consultar LMS.
         * Rehacer función sort en Data Lovers.
-    - Actividad final:
+    - Actividad final: <em><strong>Pendiente :)</strong></em>
+- [ ] Bucles (for..in | for..of | while):
+    - Actividades a desarrollar:
+        * Consultar LMS.
+        * Buscar ejercicios cortos sobre cada uno.
+    - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
 
 
 #### Test
@@ -38,7 +43,7 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
     - Actividades a desarrollar:
         * Leer documentación de Firebase.
         * Generar reglas de seguridad más fuertes para los proyectos Leratto y Mujer Segura.
-    - Actividad final: 
+    - Actividad final: <em><strong>Pendiente :)</strong></em>
     
 ----
 
@@ -48,9 +53,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Actividad | Actividad | Actividad | Actividad | Actividad | 
-| Otra actividad | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
-| Otra más | Otra más | Otra más | Otra más | Otra más |
+| Revisar código SN | Revisar OAs + Planning | Proyect feedback SN | Documentación Mocks | Actividad | 
+| Fork + gh-pages SN | Promesas con Lupo | Async/await | Test SN :) | Otra actividad | 
+| Otra más | LMS + YT promesas | LMS + MDN Sort - DataLovers | LMS Bucles + ejercicios | Otra más |
 
 
 ## Recursos
