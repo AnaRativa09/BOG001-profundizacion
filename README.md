@@ -29,6 +29,7 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
         * Buscar ejercicios cortos sobre cada uno.
     - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
 
+----
 
 #### Test
 
@@ -36,7 +37,9 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
     - Actividades a desarrollar:
         * Realizar test SN.
     - Actividad final: Lightning Talk sobre mocks con librerías. 
-    
+
+----
+
 #### Firebase
     
 - [ ] Firebase security rules:
