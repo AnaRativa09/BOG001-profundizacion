@@ -14,16 +14,31 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
     
 - [ ] Promesas:
     - Actividades a desarrollar:
-        * Asistir a charla con Lupo sobre promesas (02/09)
-        * Apoyar a un equipo 
+        * Asistir a charla con Lupo sobre promesas (02/09).
+        * Apoyar a un equipo que tenga dudas en el daily.
+        * Consultar LMS.
     - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
+- [ ] Manipular arrays (Sort):
+    - Actividades a desarrollar:
+        * Consultar LMS.
+        * Rehacer función sort en Data Lovers.
+    - Actividad final:
+
 
 #### Test
-    
+
 - [ ] Mocks con librerías y manuales:
     - Actividades a desarrollar:
-        * Realizar test SN
+        * Realizar test SN.
     - Actividad final: Lightning Talk sobre mocks con librerías. 
+    
+#### Firebase
+    
+- [ ] Firebase security rules:
+    - Actividades a desarrollar:
+        * Leer documentación de Firebase.
+        * Generar reglas de seguridad más fuertes para los proyectos Leratto y Mujer Segura.
+    - Actividad final: 
     
 ----
 
@@ -39,9 +54,11 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 
 ## Recursos
-[Registro de objetivos de aprendizaje por proyecto](https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=502701538)
+- [Registro de objetivos de aprendizaje por proyecto](https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=502701538)
 
-[Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
+- [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
 
-[Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
+- [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
+
+- [Trello Sprint de Profundización](https://trello.com/b/Qtvmf2vP)
 
