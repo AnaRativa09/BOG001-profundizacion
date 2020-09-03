@@ -63,10 +63,8 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 ## Recursos
 - [Registro de objetivos de aprendizaje por proyecto](https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=502701538)
-
-- [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
-
-- [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
-
 - [Trello Sprint de Profundización](https://trello.com/b/Qtvmf2vP)
+- [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
+- [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
+- [33 Consejos de JS](https://github.com/adonismendozaperez/33-js-conceptos)
 
