@@ -56,9 +56,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Revisar código SN | Revisar OAs + Planning | Proyect feedback SN | Documentación Mocks | Actividad | 
-| Fork + gh-pages SN | Promesas con Lupo | Async/await | Test SN :) | Otra actividad | 
-| Otra más | LMS + YT promesas | LMS + MDN Sort - DataLovers | LMS Bucles + ejercicios | Otra más |
+| Revisar código SN | Revisar OAs + Planning | Project feedback SN | Documentación Mocks |  | 
+| Fork + gh-pages SN | Promesas con Lupo | Async/await | Test SN :) |  | 
+|  | LMS + YT promesas | LMS + MDN Sort - DataLovers | LMS Bucles + ejercicios |  |
 
 
 ## Recursos
